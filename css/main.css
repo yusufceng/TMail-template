@@ -1,0 +1,79 @@
+html,
+body,
+#cover {
+    height: 100%;
+
+}
+#cover {
+    background: url("../images/mainBG3.jpg") no-repeat center center fixed;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+
+}
+
+.fixed-top{
+    max-width: 1140px;
+    margin: 20px auto;
+}
+h1 {
+   margin-top: 20%;
+    font-family: 'Droid Serif',serif;
+    color: #F4B649;
+    font-size: 40px;
+    font-style: italic;
+    margin-bottom: 30px;
+}
+h2{
+    color: #F4B649;
+    font-family:'Montserrat',sans-serif ;
+    font-style: italic;
+    margin-bottom: 100px;
+    font-weight: 600;
+}
+a.nav-link{
+    font-family:'Montserrat',sans-serif ;
+    font-size: 17px;
+    transition: color 0.5s ease;
+    -webkit-transition: color 0.5s ease;
+    -moz-transition: color 0.5s ease;
+    -o-transition: color 0.5s ease;
+    font-weight:bold;
+    font-style: italic;
+}
+a.nav-link:hover{
+    color: black;
+}
+#mailservices{
+
+    padding-top:50px;
+    height: 100%;
+    width: 100%;
+}
+.mail-box{
+    height: 450px;
+    margin-top: 10px;
+}
+.mailservices-top .mail-option {
+    padding-top: 25px;
+}
+.center_div{
+    margin: 0 auto;
+    margin-left: 40%;
+}
+.margin-10{
+    margin-right: 2%;
+    margin-bottom: 1%;
+}
+.motto{
+    font-family:'Droid Serif', serif;
+    font-size: 16px;
+
+}
+.motto2{
+    font-family:'Droid Serif', serif;
+    font-size: 18px;
+    color: white;
+
+}
